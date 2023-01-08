@@ -1,2 +1,3 @@
 # Simple-DNS
-DNS
+
+DNS client made using python.
